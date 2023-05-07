@@ -11,7 +11,7 @@ Sekarang saya sedang menempuh kuliah untuk mendapatkan gelar sarjana di bidang s
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=19523197&layout=compact&langs_count=8&theme=algolia"/>
 </a>
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=19523197)](https://github.com/19523197/github-readme-activity-graph)
 
 </p>
 <!--
